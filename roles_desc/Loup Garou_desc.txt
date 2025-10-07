@@ -1,0 +1,5 @@
+Ton rôle est **Loup-Garou**. 
+Camp: **Loups-Garous**. 
+Votre objectif est de ***dévorer*** tous les membres du **Village** sans vous faire ***démasquer***. 
+La nuit, vous pouvez parler avec vos compères et vous mettre d'accord sur la personne à ***dévorer***. 
+La partie ne se termine que lorsque parmi les joueurs en vie, il ne reste plus que des joueurs du même camp.

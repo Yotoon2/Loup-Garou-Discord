@@ -1,0 +1,6 @@
+Ton rôle est **Sorcière**. 
+Camp: **Village**. 
+Votre objectif est de ***démasquer*** les **Loups-Garous** et de les ***lyncher***. 
+Vous posséder deux potions ***à usage unique*** utilisables uniquement la nuit, l'une sert à sauver une personne d'une mort certaine et l'autre sert à tuer instantanément la personne de votre choix. 
+Pour rappel, ces potions ne sont ***utilisables qu'une seule fois***, vous devez donc en faire bonne usage. 
+La partie ne se termine que lorsque parmi les joueurs en vie, il ne reste plus que des joueurs du même camp.

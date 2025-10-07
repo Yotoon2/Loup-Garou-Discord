@@ -1,0 +1,6 @@
+Ton rôle est **Voyante**. 
+Camp: **Village**. 
+Votre objectif est de ***démasquer*** les **Loups-Garous** et de les ***lyncher***. 
+Pour ce faire, vous posséder des ***pouvoirs mystiques***, et vous pouvez, une fois par nuit, révéler le rôle du joueur de votre choix. 
+C'est ensuite à vous de faire bonne usage de cette information et de convaincre le reste du **Village** de lyncher les bonnes personnes. 
+La partie ne se termine que lorsque parmi les joueurs en vie, il ne reste plus que des joueurs du même camp.

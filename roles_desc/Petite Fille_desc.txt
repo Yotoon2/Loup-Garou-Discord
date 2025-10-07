@@ -1,0 +1,5 @@
+Ton rôle est **Petite-Fille**. 
+Camp: **Village**. 
+Votre objectif est de ***démasquer*** les **Loups-Garous** et de les ***lyncher***. 
+La nuit, vous vous infiltrez dans le repaire des **Loups-Garous**, vous pouvez ainsi ***écouter leur conversation*** et récolter des informations. 
+La partie ne se termine que lorsque parmi les joueurs en vie, il ne reste plus que des joueurs du même camp.
