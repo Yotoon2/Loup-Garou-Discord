@@ -1,4 +1,4 @@
-# NSI-Project-2025-LG-Discord-Bot
+# Loup-Garou-Discord
 
 Pour pouvoir utiliser le bot suivez ces étapes :
 
